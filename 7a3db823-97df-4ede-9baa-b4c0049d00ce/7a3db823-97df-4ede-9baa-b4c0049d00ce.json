@@ -27,67 +27,13 @@
       "Flowchart": {
         "Type": "Flow",
         "ZoomFactor": "100",
-        "XPosition": "0",
-        "YPosition": "0",
-        "Width": "0",
-        "Hight": "0",
+        "XPosition": "-4950",
+        "YPosition": "-4950",
+        "Width": "10000",
+        "Hight": "10000",
         "IsDeleted": "False",
         "Id": "087e5cdf-fb7c-418c-8556-ee4ecd0a1461",
-        "BuildingBlocks": [
-          {
-            "Title": "Start",
-            "XPosition": "5000",
-            "YPosition": "5000",
-            "IsExpanded": "False",
-            "Width": "0",
-            "TemplateId": "",
-            "FlowchartId": "087e5cdf-fb7c-418c-8556-ee4ecd0a1461",
-            "Type": "Start",
-            "Note": "",
-            "IsNoteVisible": "False",
-            "Id": "03d8b04d-c9f9-49ca-8d52-399ee3d038d4",
-            "FlowProperties": [
-              {
-                "ParentBuildingBlockId": "03d8b04d-c9f9-49ca-8d52-399ee3d038d4",
-                "ParentFlowPropertyId": "",
-                "TemplateId": "",
-                "Type": "Dictionary",
-                "Key": "StartAction",
-                "Title": "",
-                "SortOrder": "1",
-                "ValueId": "591f9168-3ec6-4dfd-be22-b4c0049d00ce",
-                "LType": "LText",
-                "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
-                "CustomSortOrder": "0",
-                "Id": "1413a172-bbdd-4b9d-9f50-5324be055438",
-                "ChildProperties": [],
-                "Connections": [],
-                "Value": {
-                  "Value": "NoAction",
-                  "Id": "591f9168-3ec6-4dfd-be22-b4c0049d00ce"
-                }
-              },
-              {
-                "ParentBuildingBlockId": "03d8b04d-c9f9-49ca-8d52-399ee3d038d4",
-                "ParentFlowPropertyId": "",
-                "TemplateId": "",
-                "Type": "Header",
-                "Key": "Header",
-                "Title": "Start",
-                "SortOrder": "0",
-                "ValueId": "bbb20798-0ca8-4977-9e8b-b4c0049d00ce",
-                "LType": "LSignal",
-                "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
-                "CustomSortOrder": "0",
-                "Id": "ba532c1b-61f9-4a87-9905-998bc6abf090",
-                "ChildProperties": [],
-                "Connections": []
-              }
-            ]
-          }
-        ],
+        "BuildingBlocks": [],
         "FlowProperties": []
       }
     }
