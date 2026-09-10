@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/10/2026 10:50:33 AM +00:00",
-      "DateModify": "9/10/2026 10:50:33 AM +00:00",
+      "DateCreation": "9/10/2026 10:52:29 AM +00:00",
+      "DateModify": "9/10/2026 10:52:29 AM +00:00",
       "Title": "New Flow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -36,8 +36,8 @@
         "BuildingBlocks": [
           {
             "Title": "Pass",
-            "XPosition": "5390",
-            "YPosition": "5070",
+            "XPosition": "5360",
+            "YPosition": "5170",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -55,7 +55,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "02e20a5d-fa51-407b-9949-b4c191a900b2",
+                "ValueId": "5b0c9861-a45b-4303-9c8a-b4c135bc00b3",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -70,7 +70,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "80df5d6b-d4e1-463d-9065-b4c191a900b2",
+                    "ValueId": "28135d9e-92c9-4b42-bfc6-b4c135bc00b3",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "",
@@ -80,7 +80,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "80df5d6b-d4e1-463d-9065-b4c191a900b2"
+                      "Id": "28135d9e-92c9-4b42-bfc6-b4c135bc00b3"
                     }
                   }
                 ],
@@ -94,10 +94,10 @@
                 "Key": "Header",
                 "Title": "Pass",
                 "SortOrder": "0",
-                "ValueId": "7ddc0b8e-4619-4e64-bfc5-b4c191a900b2",
+                "ValueId": "c453d7f5-1274-4fd0-a7ff-b4c135bc00b3",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "e882b7b1-b42d-4fa4-a648-6a64234746d7",
                 "ChildProperties": [],
@@ -126,7 +126,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "bc154fda-ad70-4cc6-9f48-b4c191a900b2",
+                "ValueId": "6dcbe476-27ed-4ecd-b04a-b4c135bc00b3",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -136,7 +136,7 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "bc154fda-ad70-4cc6-9f48-b4c191a900b2"
+                  "Id": "6dcbe476-27ed-4ecd-b04a-b4c135bc00b3"
                 }
               },
               {
@@ -147,10 +147,10 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "0d179178-6dbf-4d37-b29f-b4c191a900b2",
+                "ValueId": "6f1038a3-647a-4df3-b63a-b4c135bc00b3",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "db3590fc-55e4-470f-9c69-68a88d3fb6cb",
                 "ChildProperties": [],
@@ -158,7 +158,7 @@
                   {
                     "OutputFlowPropertyId": "db3590fc-55e4-470f-9c69-68a88d3fb6cb",
                     "InputFlowPropertyId": "e882b7b1-b42d-4fa4-a648-6a64234746d7",
-                    "Id": "953526f6-6365-4afc-a2a3-b4c191a900b2",
+                    "Id": "6fe670b5-6295-4969-9289-b4c135bc00b3",
                     "WireGuides": []
                   }
                 ]
