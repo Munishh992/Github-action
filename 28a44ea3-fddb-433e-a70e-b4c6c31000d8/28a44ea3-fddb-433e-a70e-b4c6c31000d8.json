@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/15/2026 1:16:40 PM +00:00",
-      "DateModify": "9/15/2026 1:16:40 PM +00:00",
+      "DateCreation": "9/15/2026 2:20:17 PM +00:00",
+      "DateModify": "9/15/2026 2:20:17 PM +00:00",
       "Title": "New Flow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -55,10 +55,10 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "6757b021-aa75-4a1a-8ef1-b4c6cc5600d8",
+                "ValueId": "de636e39-9bce-418f-ba26-b4c69ef700de",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "f0b0914e-2584-48dd-9b0a-7d3e245bd53b",
                 "ChildProperties": [],
@@ -66,7 +66,7 @@
                   {
                     "OutputFlowPropertyId": "f0b0914e-2584-48dd-9b0a-7d3e245bd53b",
                     "InputFlowPropertyId": "cebff293-5a36-4426-98a9-e5c4afeabac8",
-                    "Id": "7ed7c7ac-fb64-40aa-929b-b4c6cc5600d8",
+                    "Id": "76193d9a-27ec-45b5-bff8-b4c69ef700de",
                     "WireGuides": []
                   }
                 ]
@@ -79,7 +79,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "099dd8ee-708c-4920-b782-b4c6cc5600d8",
+                "ValueId": "f6750db3-19dc-421a-be53-b4c69ef700de",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -89,15 +89,15 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "099dd8ee-708c-4920-b782-b4c6cc5600d8"
+                  "Id": "f6750db3-19dc-421a-be53-b4c69ef700de"
                 }
               }
             ]
           },
           {
             "Title": "Pass",
-            "XPosition": "5180",
-            "YPosition": "5000",
+            "XPosition": "5190",
+            "YPosition": "5060",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -115,7 +115,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "97f3ac9d-08ce-4406-b1bf-b4c6cc5600d8",
+                "ValueId": "1df7a2b2-9af7-4569-a3e8-b4c69ef700de",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -130,7 +130,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "5bf2c307-7f6a-4316-9d74-b4c6cc5600d8",
+                    "ValueId": "538e766f-9d35-45f4-92c1-b4c69ef700de",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "",
@@ -140,7 +140,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "5bf2c307-7f6a-4316-9d74-b4c6cc5600d8"
+                      "Id": "538e766f-9d35-45f4-92c1-b4c69ef700de"
                     }
                   }
                 ],
@@ -154,10 +154,10 @@
                 "Key": "Header",
                 "Title": "Pass",
                 "SortOrder": "0",
-                "ValueId": "f6616731-a5c0-444a-9e4f-b4c6cc5600d8",
+                "ValueId": "f6c66e55-c6ad-46b5-8c38-b4c69ef700de",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "cebff293-5a36-4426-98a9-e5c4afeabac8",
                 "ChildProperties": [],
