@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/17/2026 1:11:10 PM +00:00",
-      "DateModify": "9/17/2026 1:11:10 PM +00:00",
+      "DateCreation": "9/17/2026 1:14:02 PM +00:00",
+      "DateModify": "9/17/2026 1:14:02 PM +00:00",
       "Title": "New Flow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -36,8 +36,8 @@
         "BuildingBlocks": [
           {
             "Title": "Pass",
-            "XPosition": "5220",
-            "YPosition": "5000",
+            "XPosition": "5240",
+            "YPosition": "5060",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -55,7 +55,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "fcdfa7e8-709e-403d-aad2-b4c84ca600d9",
+                "ValueId": "46465ee2-0e3f-4812-9c4f-b4c811b300da",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -70,7 +70,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "a2796663-5aff-419a-ad8c-b4c84ca600d9",
+                    "ValueId": "db252f8f-2e39-4762-96eb-b4c811b300da",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "",
@@ -80,7 +80,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "a2796663-5aff-419a-ad8c-b4c84ca600d9"
+                      "Id": "db252f8f-2e39-4762-96eb-b4c811b300da"
                     }
                   }
                 ],
@@ -94,10 +94,10 @@
                 "Key": "Header",
                 "Title": "Pass",
                 "SortOrder": "0",
-                "ValueId": "5aa7ad16-1ac9-469c-9069-b4c84ca600d9",
+                "ValueId": "a925e2d9-b3d8-4ad4-a61c-b4c811b300da",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "6c2541da-5ebb-40cb-a857-c8f2432475da",
                 "ChildProperties": [],
@@ -126,10 +126,10 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "5222bec8-13c9-4290-a94a-b4c84ca600d9",
+                "ValueId": "16e8b06c-1aea-4a99-a3ac-b4c811b300da",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "8207c0e2-92f6-49d9-8b7c-83bd2279b51d",
                 "ChildProperties": [],
@@ -137,7 +137,7 @@
                   {
                     "OutputFlowPropertyId": "8207c0e2-92f6-49d9-8b7c-83bd2279b51d",
                     "InputFlowPropertyId": "6c2541da-5ebb-40cb-a857-c8f2432475da",
-                    "Id": "e25f6363-91dd-4792-b6b1-b4c84ca600d9",
+                    "Id": "31cfda23-2d15-423a-9c1b-b4c811b300da",
                     "WireGuides": []
                   }
                 ]
@@ -150,7 +150,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "b7b15b43-d9e5-425a-8243-b4c84ca600d9",
+                "ValueId": "3e2b7994-2360-49ff-8b59-b4c811b300da",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -160,7 +160,7 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "b7b15b43-d9e5-425a-8243-b4c84ca600d9"
+                  "Id": "3e2b7994-2360-49ff-8b59-b4c811b300da"
                 }
               }
             ]
