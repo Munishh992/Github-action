@@ -36,8 +36,8 @@
         "BuildingBlocks": [
           {
             "Title": "Pass",
-            "XPosition": "5330",
-            "YPosition": "5140",
+            "XPosition": "5370",
+            "YPosition": "5240",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -55,7 +55,7 @@
                 "Key": "Header",
                 "Title": "Pass",
                 "SortOrder": "0",
-                "ValueId": "710398ed-dfd7-40c2-b7ba-b4c9fd37007c",
+                "ValueId": "11038b1f-3d70-4495-b980-b4c90225007d",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -72,7 +72,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "42ae10d4-6321-41f2-b84a-b4c9fd37007c",
+                "ValueId": "fea9f506-614c-46d0-bee6-b4c90225007d",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -87,7 +87,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "02aae59a-cdbf-421d-9a8e-b4c9fd37007c",
+                    "ValueId": "1c02987c-36b8-4b96-b60a-b4c90225007d",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "",
@@ -97,7 +97,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "02aae59a-cdbf-421d-9a8e-b4c9fd37007c"
+                      "Id": "1c02987c-36b8-4b96-b60a-b4c90225007d"
                     }
                   }
                 ],
@@ -126,7 +126,7 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "69e410ea-c0df-469a-8473-b4c9fd37007c",
+                "ValueId": "973fa50a-6f36-4124-b4ab-b4c90225007d",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -143,7 +143,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "fb16b72c-b68f-42ab-a411-b4c9fd37007c",
+                "ValueId": "dd0fe638-92d0-475d-8a81-b4c90225007d",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -153,7 +153,7 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "fb16b72c-b68f-42ab-a411-b4c9fd37007c"
+                  "Id": "dd0fe638-92d0-475d-8a81-b4c90225007d"
                 }
               }
             ]
@@ -179,7 +179,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "a787d783-ea08-4454-9ad8-b4c9fd37007c",
+                "ValueId": "7693e62f-ae34-4484-aa79-b4c90225007d",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -196,7 +196,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "637eaaca-f082-479f-88b2-b4c9fd37007c",
+                "ValueId": "8fa3348f-b872-4eb0-b5c1-b4c90225007d",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -211,7 +211,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "e8bb3a3c-72e4-45c8-a762-b4c9fd37007c",
+                    "ValueId": "4d5303df-aba7-43e0-9ead-b4c90225007d",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "True",
@@ -221,7 +221,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "e8bb3a3c-72e4-45c8-a762-b4c9fd37007c"
+                      "Id": "4d5303df-aba7-43e0-9ead-b4c90225007d"
                     }
                   }
                 ],
