@@ -55,7 +55,7 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "394c0e2e-366e-415c-baf8-b4c9ef0b007c",
+                "ValueId": "3a88a1b0-30ad-4ad4-9c4a-b4c9f2ad007c",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -72,7 +72,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "e6718995-4022-4e00-9066-b4c9ef0b007c",
+                "ValueId": "09edc04c-dc3d-4d39-878b-b4c9f2ad007c",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -82,15 +82,15 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "e6718995-4022-4e00-9066-b4c9ef0b007c"
+                  "Id": "09edc04c-dc3d-4d39-878b-b4c9f2ad007c"
                 }
               }
             ]
           },
           {
             "Title": "Log message",
-            "XPosition": "5240",
-            "YPosition": "5040",
+            "XPosition": "5250",
+            "YPosition": "5130",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -108,7 +108,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "7a3ce4bd-188f-4f98-852b-b4c9ef0b007c",
+                "ValueId": "b40ea337-138b-49f4-9cdb-b4c9f2ad007c",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -125,7 +125,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "43c8fd15-ebcc-4cd1-8d46-b4c9ef0b007c",
+                "ValueId": "1398e4f6-aaef-4ceb-ad08-b4c9f2ad007c",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -140,7 +140,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "0f46550b-eb99-4742-ae79-b4c9ef0b007c",
+                    "ValueId": "ee0b0aca-8ab3-4c55-92b3-b4c9f2ad007c",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "True",
@@ -150,7 +150,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "0f46550b-eb99-4742-ae79-b4c9ef0b007c"
+                      "Id": "ee0b0aca-8ab3-4c55-92b3-b4c9f2ad007c"
                     }
                   }
                 ],
