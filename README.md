@@ -44,3 +44,5 @@ and secret:
 * ````LEAPWORK_API_KEY```` - the API key to access the REST API, also referred to as the "Access Key"
 
 Once you commit a change in your repo, the Leapwork GitHub Action will execute, running the schedule on the Controller provided. If something fails, an issue will be created in GitHub with relevant details.
+
+- Git versioning access validated by Leapwork at 2026-09-23 06:51:33 UTC.
