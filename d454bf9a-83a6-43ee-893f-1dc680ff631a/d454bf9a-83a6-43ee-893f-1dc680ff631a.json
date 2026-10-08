@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "10/8/2026 2:02:07 PM +00:00",
-      "DateModify": "10/8/2026 2:02:07 PM +00:00",
+      "DateCreation": "10/8/2026 2:30:23 PM +00:00",
+      "DateModify": "10/8/2026 2:30:23 PM +00:00",
       "Title": "My first flow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -11323,7 +11323,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce.com/",
         "Fields": "",
-        "StrategyListSource": "b4bd12c2-fb51-487b-a184-9ec27e0ee795",
+        "StrategyListSource": "d46649d0-4681-4426-b3df-6220448b8d98",
         "HasImage": "False",
         "RawId": "eb5e6cf7-059d-4f78-88bd-027d47e8d1d4",
         "SelectedStrategyId": "c5aea232-5d68-45ec-8ee2-58bbf9a27807",
@@ -11339,7 +11339,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce.com/",
         "Fields": "",
-        "StrategyListSource": "6d143bf6-3469-41b3-a35b-0f204f62cbab",
+        "StrategyListSource": "a25394cb-97e0-4aa9-b7ad-0468a88c283f",
         "HasImage": "False",
         "RawId": "ca90181f-0929-43f7-9796-a763b197de9d",
         "SelectedStrategyId": "c6c73446-507d-4e45-985e-c4e3c2d4a43c",
@@ -11355,7 +11355,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce-setup.com/lightning/setup/SetupOneHome/home",
         "Fields": "",
-        "StrategyListSource": "3c79da7a-d6f1-4667-96fd-a9ae79693a48",
+        "StrategyListSource": "9aee3dc0-dd77-4091-9e89-372130677aba",
         "HasImage": "False",
         "RawId": "7f691297-10e9-40eb-ade8-69f0f73dbcdb",
         "SelectedStrategyId": "9e148e5a-8ce8-4ea6-960a-9b770a9fb7e4",
@@ -11371,7 +11371,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce.com/_ui/identity/verification/method/TotpVerificationUi/e?vcsrf=XOZHvOtwbkR8-NgDfaD4PHlCfuK8sxM4Rq1qcZAeAEstSdPM0b2EJl3N-FeW6M06q48L76gNZm-ZVidQ1TBVKKSzjQScdNAyefL6GpDkaLnetA448mnc6xZi2vzVJrMlKzUw6x84abdx4nhTlfwKKRLT_As287SP-ydBl-g-vJqKWc3cw3uJlPM6ILZuvpS4Kmtl1nRDpQEbJC3i_zMGc7YtjuqqGVeC0QX002Of7l87KKgyNMpwC8zxaz7KSUeB_uPa2_9ydyWcctTzusy0IqU4tR7XbUB-xyeVYnZeig-SnrdTx7Y6hC6myk-F8anMiTe027VVugqADHOeb6guSPt9uAoPQovp_WfCSiJ7ehTf7pXb3VD15Ek0UZ89PpoV68nzVv5QI76MlxZFrnNQT2wHRzrY1HZYTV7eSJD6l9yIGIBLf0kLOG-9Pw1fb6UBmJ3NVEgz_xU4xylMC76KfuDSK1mfOFd3ji9G5Mud2U-VvTnfNBTMkmR6CP4DSCxmALJK82VFLNZ8IyL8rqAxvZhVPULoXFXPdWkM7gyUa1WZZfkTqjoLODzmbsA_saSYgHymhyDEfQp6XKRJAY8fX7g50ojBd0Baba1-eS50gZP5fHKm1kQ1Ihyl4yVXe9lvExvw4QQLNO0CC0Z_T_quwHDInSvN3T-4Bmv2u9SH_HM%3D&vpol=ic&vflid=0&vfgrp=534756862&retURL=%2Fsecur%2Ffrontdoor.jsp%3Fallp%3D1%26cshc%3D9000003xjWe9000007HDPx%26loginURL%3Dnull%26apv%3D1%26display%3Dpage%26appkp%3D1%26ucs%3D1",
         "Fields": "",
-        "StrategyListSource": "f74ff531-56a4-444b-98de-c038dbf3222f",
+        "StrategyListSource": "0f10bfcd-1785-43b4-acce-94e65e466d26",
         "HasImage": "False",
         "RawId": "d4b40e35-b5fc-4f52-91e2-56e6a25d7a03",
         "SelectedStrategyId": "75f714d8-d705-44b0-9bb1-e22c4dbe2605",
@@ -11387,7 +11387,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce-setup.com/lightning/setup/Profiles/page?address=%2F00eJ80000011juZIAQ%3FretURL%3D%252Fsetup%252Fhome",
         "Fields": "",
-        "StrategyListSource": "4880fba5-9596-4b2f-9b0b-53368868c6a8",
+        "StrategyListSource": "958f1b75-549f-4785-8001-6962ed8238bb",
         "HasImage": "False",
         "RawId": "2a61803e-8a42-4c21-9a40-9690db3a5639",
         "SelectedStrategyId": "6d8cb20b-a52c-4ed5-9785-7159c60cb178",
@@ -11403,7 +11403,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce.com/_ui/identity/verification/method/TotpVerificationUi/e?vcsrf=XOZHvOtwbkR8-NgDfaD4PHlCfuK8sxM4Rq1qcZAeAEstSdPM0b2EJl3N-FeW6M06q48L76gNZm-ZVidQ1TBVKKSzjQScdNAyefL6GpDkaLnetA448mnc6xZi2vzVJrMlKzUw6x84abdx4nhTlfwKKRLT_As287SP-ydBl-g-vJqKWc3cw3uJlPM6ILZuvpS4Kmtl1nRDpQEbJC3i_zMGc7YtjuqqGVeC0QX002Of7l87KKgyNMpwC8zxaz7KSUeB_uPa2_9ydyWcctTzusy0IqU4tR7XbUB-xyeVYnZeig-SnrdTx7Y6hC6myk-F8anMiTe027VVugqADHOeb6guSPt9uAoPQovp_WfCSiJ7ehTf7pXb3VD15Ek0UZ89PpoV68nzVv5QI76MlxZFrnNQT2wHRzrY1HZYTV7eSJD6l9yIGIBLf0kLOG-9Pw1fb6UBmJ3NVEgz_xU4xylMC76KfuDSK1mfOFd3ji9G5Mud2U-VvTnfNBTMkmR6CP4DSCxmALJK82VFLNZ8IyL8rqAxvZhVPULoXFXPdWkM7gyUa1WZZfkTqjoLODzmbsA_saSYgHymhyDEfQp6XKRJAY8fX7g50ojBd0Baba1-eS50gZP5fHKm1kQ1Ihyl4yVXe9lvExvw4QQLNO0CC0Z_T_quwHDInSvN3T-4Bmv2u9SH_HM%3D&vpol=ic&vflid=0&vfgrp=534756862&retURL=%2Fsecur%2Ffrontdoor.jsp%3Fallp%3D1%26cshc%3D9000003xjWe9000007HDPx%26loginURL%3Dnull%26apv%3D1%26display%3Dpage%26appkp%3D1%26ucs%3D1",
         "Fields": "",
-        "StrategyListSource": "576ec39e-f83c-4558-b441-ff34e3ca232f",
+        "StrategyListSource": "ec3447ba-0d8b-4a24-ba76-653f34d1f3e5",
         "HasImage": "False",
         "RawId": "a61e6da8-f963-49d0-b241-61f626e1c9d7",
         "SelectedStrategyId": "2666c523-231c-42b3-8a5a-ac1b0f518ea8",
@@ -11419,7 +11419,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce-setup.com/lightning/setup/Profiles/page?address=%2F00eJ80000011juZIAQ%3FretURL%3D%252Fsetup%252Fhome",
         "Fields": "",
-        "StrategyListSource": "b7c7c2c7-3afb-491a-95c4-1a212fa9712d",
+        "StrategyListSource": "9d8ed174-1804-4c66-b37b-e84474483263",
         "HasImage": "False",
         "RawId": "780059dd-5cc3-4099-b68f-7d9f890d338b",
         "SelectedStrategyId": "7c8742e5-d4fc-44f5-8131-829ca8ab3658",
@@ -11435,7 +11435,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce-setup.com/lightning/setup/Profiles/page?address=%2F00eJ80000011juZIAQ%3FretURL%3D%252Fsetup%252Fhome",
         "Fields": "",
-        "StrategyListSource": "7119f8b6-394e-4135-9372-d622c8942955",
+        "StrategyListSource": "7c43613d-0085-4e4a-8537-eb567d8f40e6",
         "HasImage": "False",
         "RawId": "05a7f820-afc7-40b0-a8c4-9a9fc110e190",
         "SelectedStrategyId": "8e91520c-7736-4486-9849-0b29549260dd",
@@ -11451,7 +11451,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce-setup.com/lightning/setup/SetupOneHome/home",
         "Fields": "",
-        "StrategyListSource": "51359acf-c040-431b-b95e-deabdd2e3dd2",
+        "StrategyListSource": "b11885ff-d485-4a10-b0b7-bdb20725ba35",
         "HasImage": "False",
         "RawId": "f09e56f5-93ea-4d63-885c-4792373e9d25",
         "SelectedStrategyId": "d4bd1b38-6bcc-493f-8ab0-3a53dfce6420",
@@ -11467,7 +11467,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce.com/",
         "Fields": "",
-        "StrategyListSource": "0dbfc624-ad40-45bc-b981-3fe8eb5beeb7",
+        "StrategyListSource": "59932611-c33d-4e16-a4e8-8840ec572ad6",
         "HasImage": "False",
         "RawId": "e536e728-3dde-4b1d-8414-731e7cc2356b",
         "SelectedStrategyId": "48416607-4d12-435d-9ca9-1c1230162299",
@@ -11483,7 +11483,7 @@
       {
         "Uri": "https://leapwork7-dev-ed.my.salesforce.com/",
         "Fields": "",
-        "StrategyListSource": "001cf76d-f6a1-48d9-9053-46aa58a9dab8",
+        "StrategyListSource": "d619dbd5-0007-46df-b313-b504b4db6c5a",
         "HasImage": "False",
         "RawId": "cae29c06-5413-4311-b04b-c75a9909e4dd",
         "SelectedStrategyId": "c72d6947-072e-4e8e-b99b-52671b4565ad",
